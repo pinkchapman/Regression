@@ -1,0 +1,34 @@
+# Core
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# ML
+scikit-learn
+
+# Boosting models
+xgboost
+lightgbm
+catboost
+
+# Imbalanced data
+imbalanced-learn
+
+# Hyperparameter tuning
+optuna
+
+# Model interpretation
+shap
+
+# Notebooks
+jupyter
+ipykernel
+
+# Utils
+tqdm
+
+
